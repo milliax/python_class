@@ -1,4 +1,4 @@
-string = raw_input()
+string = input()
 
 arr = string.split(" ")
 
