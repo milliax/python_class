@@ -1,5 +1,5 @@
-row = int(input())
 column = int(input())
+row = int(input())
 
 line = [0]
 for i in range(column):

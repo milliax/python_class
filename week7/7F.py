@@ -1,9 +1,9 @@
-students = list(map(int,input().split()))
+students = input().split()
 
 faint = 0
 
 for e in students:
-    if e == 0:
+    if e == '0':
         faint += 1
     else:
         print(e,end=" ")
